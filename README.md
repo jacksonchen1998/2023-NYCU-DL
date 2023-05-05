@@ -1,8 +1,15 @@
 # 2023-NYCU-DL
 ## Homework for Deep Learning class
-- [HomeWork 1](./Homework%201/2023_DL_HW1.pdf)
+- [Homework 1](./Homework%201/2023_DL_HW1.pdf)
    - Feedforward Neural Network
    - Convolutional Neural Network
+- [Homework 2](./Homework%202/README.md)
+   - Image Generation
+      - Generative Adversarial Network
+      - Diffusion Probabilistic Model
+   - Document Classification
+      - Transformer
+      - Prompt-based Learning
 ## Class Notes
 [HackMD](https://hackmd.io/l-PR6fjWS-Kssew43hQzLw)
 ## Grade
